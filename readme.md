@@ -10,6 +10,6 @@ To use this package, you can simply import it in your Go project:
 import "github.com/MohammadAlhallaq/luhnAlgo"
 
 func main() {
-	luhn.Valid(24354234) //= false
-	luhn.Valid(40000070302000001) //= true
+	luhnAlgo.Valid(24354234) //= false
+	luhnAlgo.Valid(40000070302000001) //= true
 }
