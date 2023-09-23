@@ -7,7 +7,7 @@ This is a Go package that provides functionality for validating credit card numb
 To use this package, you can simply import it in your Go project:
 
 ```go
-import "github.com/yourusername/luhn"
+import "github.com/MohammadAlhallaq/luhnAlgo"
 
 func main() {
 	luhn.Valid(24354234) //= false
