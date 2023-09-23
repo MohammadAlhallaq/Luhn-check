@@ -1,4 +1,4 @@
-package luhncheck
+package luhnAlgo
 
 import (
 	"strconv"
